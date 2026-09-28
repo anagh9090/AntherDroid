@@ -1,0 +1,11 @@
+Categories:
+  - Multimedia
+  - Audio
+License: GPL-3.0-only
+SourceCode: https://github.com/anagh9090/AntherListen
+Summary: Open-source audio playback application
+Description: |-
+  AntherListen is an open-source audio playback application developed as part of the Anther project ecosystem.
+
+AutoUpdateMode: None
+UpdateCheckMode: None
