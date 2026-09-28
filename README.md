@@ -18,7 +18,7 @@ This repository allows you to receive direct, fast, and secure updates for Anthe
 ### Option 1: Direct Link (Recommended)
 1. Copy this repository URL:
    ```
-   [https://anagh9090.github.io/AntherDroid/repo](https://anagh9090.github.io/AntherDroid/repo)
+   https://anagh9090.github.io/AntherDroid/repo
    ```
    
 2. Open the **F-Droid app** on your Android device.
