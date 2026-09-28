@@ -28,7 +28,7 @@ This repository allows you to receive direct, fast, and secure updates for Anthe
 4. Paste the URL and tap **Add.**
 
 ### Option 2: Scan QR Code
-![AntherDroid QR](qr.png)
+<img src="qr.png" width="200" height="200">
 
 
 ## Security & Verification
